@@ -1,0 +1,3 @@
+Function GetFontnumber(param1)
+GetFontnumber = Range(param1).DisplayFormat.Interior.Color
+End Function
